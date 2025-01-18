@@ -42,6 +42,6 @@ I have a B2 level in English.
 
 ## To get to know me better, check out my portfolio website 🤝
 
-<img width="1399" alt="Screenshot 2025-01-18 at 18 13 50" src="https://github.com/user-attachments/assets/ca0c3f11-c8d4-4199-8afb-c407a7538ef9" />
+<img width="1353" alt="Screenshot 2025-01-18 at 19 27 55" src="https://github.com/user-attachments/assets/7308a591-0429-45d1-8064-8be6027d0098" />
 
 Link: [Link is unavailable now]()
