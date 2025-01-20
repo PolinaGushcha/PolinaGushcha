@@ -2,6 +2,8 @@
 
 ## I am JavaScript frontEnd developer, React, React Native, Angular
 
+#### <i>This github was recently created to present my portfolio more beautifully and properly. My previous github account [Polinasss](https://github.com/Polinasss)</i>
+
 ### Contacts
 
 Location: Poland, Poznan\
