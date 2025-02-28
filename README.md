@@ -12,6 +12,7 @@ Mobile: +48 502 270 962\
 e-mail: polina.hushcha@gmail.com\
 Telegram: @PolinaGushcha\
 [CV on Linked-in](https://www.linkedin.com/in/polina-gushcha/)
+[My resume]([https://www.linkedin.com/in/polina-gushcha/](https://docs.google.com/document/d/1dHFdX55J9j-xp1EzEMZhqwWBPvKL-pK3yGY5ztYZ4Q8/edit?usp=sharing))
 
 ## About me
 
@@ -39,7 +40,7 @@ I have a B2 level in English.
 ## Certificate
 
 - Website development with HTML, CSS & JS ( IT Academy )
-- JavaScript and React course ( TeachMeSkills )
+- [JavaScript and React course](https://app.rs.school/certificate/d3d024a3) ( TeachMeSkills )
 - [Angular the rolling scope school course](https://app.rs.school/certificate/d3d024a3)
 
 ## To get to know me better, check out my portfolio website 🤝
