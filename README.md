@@ -11,8 +11,9 @@ GitHub: [https://github.com/PolinaGushcha](https://github.com/PolinaGushcha)\
 Mobile: +48 502 270 962\
 e-mail: polina.hushcha@gmail.com\
 Telegram: @PolinaGushcha\
-[CV on Linked-in](https://www.linkedin.com/in/polina-gushcha/)
-[My resume]([https://www.linkedin.com/in/polina-gushcha/](https://docs.google.com/document/d/1dHFdX55J9j-xp1EzEMZhqwWBPvKL-pK3yGY5ztYZ4Q8/edit?usp=sharing))
+[CV on Linked-in](https://www.linkedin.com/in/polina-gushcha/) 
+
+[My resume](https://docs.google.com/document/d/1dHFdX55J9j-xp1EzEMZhqwWBPvKL-pK3yGY5ztYZ4Q8/edit?usp=sharing)
 
 ## About me
 
