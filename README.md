@@ -23,7 +23,7 @@ I am eager to develop my skills in new areas and am open to full-time, part-time
 
 ## Technical skills:
 
-JavaScript, TypeScript, HTML/CSS, Git, WebPack, SCSS/SASS, Tailwind, React, Redux toolkit, MobX, React-Admin, Next.js, Canvas, Framer Motion, Gsap, Axios, React Native expo & cli, Ionic, Angular.
+JavaScript, TypeScript, HTML/CSS, Git, WebPack, SCSS/SASS, Tailwind, React, Redux toolkit, MobX, React-Admin, Next.js, Canvas, Framer Motion, Ant Design, Material UI, Gsap, Axios, Supabase and Firebase, React Native expo & cli, Ionic, Angular.
 
 I have a B2 level in English.
 
