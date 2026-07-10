@@ -46,6 +46,6 @@ I have a B2 level in English.
 
 ## To get to know me better, check out my portfolio website 🤝
 
-<img width="1353" alt="Screenshot 2025-01-18 at 19 27 55" src="https://github.com/user-attachments/assets/7308a591-0429-45d1-8064-8be6027d0098" />
+<img width="1453" height="798" alt="Screenshot 2026-07-10 at 13 01 12" src="https://github.com/user-attachments/assets/4e5b6c27-b521-440d-98fe-43770de4e29f" />
 
-Link: [Link is unavailable now]()
+Link: [https://portfolio-next-js-iota-opal.vercel.app/](https://portfolio-next-js-iota-opal.vercel.app/)
