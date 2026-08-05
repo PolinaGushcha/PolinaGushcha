@@ -17,9 +17,9 @@ Telegram: @PolinaGushcha\
 
 ## About me
 
-Junior Frontend Developer specializing in mobile and web applications with 1.5 years of experience. Proficient in creating visually appealing and smooth interface animations while effectively integrating with REST APIs. My diverse background includes e-commerce, healthcare applications, logistics, and transportation.
-
-I am eager to develop my skills in new areas and am open to full-time, part-time, or project-based opportunities. In addition, I have hands-on experience working within Agile (SCRUM) methodologies.
+Software Engineer with 3+ years of experience designing and delivering scalable, high-performance web and mobile applications using React, Next.js, and TypeScript across entertainment, logistics, health-tech, and Web3 domains.
+Skilled in architecting UI from scratch, integrating REST APIs, and delivering complex features - authentication flows, form systems, data tables, and analytics dashboards - for ERP, CRM, and management platforms.
+Integrated AI agents into the frontend pipeline for requirements analysis, component generation, test scaffolding, and refactoring, reducing cycle time for routine tasks.
 
 ## Technical skills:
 
