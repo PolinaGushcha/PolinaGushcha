@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Polina Gushcha <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h1>
 
-## I am JavaScript frontEnd developer, React, React Native, Angular
+## I am Frontend Engineer | MERN | AWS | Node.js | React | React Native | Angular | B2B
 
 ### Contacts
 
