@@ -2,8 +2,6 @@
 
 ## I am JavaScript frontEnd developer, React, React Native, Angular
 
-#### <i>This github was recently created to present my portfolio more beautifully and properly. My previous github account [Polinasss](https://github.com/Polinasss)</i>
-
 ### Contacts
 
 Location: Poland, Poznan\
@@ -13,7 +11,7 @@ e-mail: polina.hushcha@gmail.com\
 Telegram: @PolinaGushcha\
 [CV on Linked-in](https://www.linkedin.com/in/polina-gushcha/) 
 
-[My resume](https://docs.google.com/document/d/1dHFdX55J9j-xp1EzEMZhqwWBPvKL-pK3yGY5ztYZ4Q8/edit?usp=sharing)
+[My resume](https://docs.google.com/document/d/19RL1WAeJfS2ahb83wSPKxI9LxIwiPJ8F/edit?usp=sharing&ouid=102815667248773348021&rtpof=true&sd=true)
 
 ## About me
 
@@ -23,15 +21,17 @@ Integrated AI agents into the frontend pipeline for requirements analysis, compo
 
 ## Technical skills:
 
-JavaScript, TypeScript, HTML/CSS, Git, WebPack, SCSS/SASS, Tailwind, React, Redux toolkit, MobX, React-Admin, Next.js, Canvas, Framer Motion, Ant Design, Material UI, Gsap, Axios, Supabase and Firebase, React Native expo & cli, Ionic, Angular.
+HTML/CSS, SCSS, SASS, Tailwind, JavaScript, Typescript, React, Redux toolkit, MobX, React-Admin, Next.js, Firebase and Supabase, Docker, playwright, Ant Design, MUI, Canvas, Framer Motion / Framer platform, Gsap, Axios, Jest, Cypress, React Native expo & cli, Angular, RxJs, NgRx, Node.js, Express.js, GraphQL, MongoDB, AWS, RAM, Web3, StoryBook, Capacitor, Ionic, AI development with Claude, Cursor, agile software development.
 
-I have a B2 level in English.
+## Languages
+
+English – C1
+Russian – Native
+Polish – A2
 
 ## Soft skills
 
-- Interested not only in the technical part of the product but also in the business part
-- I have experience in figma and illustrator
-- Communicative
+I don't just work on the frontend. I'm involved with the whole project. Thanks to my technical knowledge and, I'd call it, a soft skill of communicating concepts in a way that's gentle but still structured and well-reasoned, I take part in most discussions around functionality, design, and business logic. Also, since I'm currently studying to become a full-stack developer, I've been taking on more and more responsibility.
 
 ## Education
 
@@ -43,6 +43,7 @@ I have a B2 level in English.
 - Website development with HTML, CSS & JS ( IT Academy )
 - [JavaScript and React course](https://app.rs.school/certificate/d3d024a3) ( TeachMeSkills )
 - [Angular the rolling scope school course](https://app.rs.school/certificate/d3d024a3)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/589e9e36-95bb-4e42-8bbe-202800d3bedc/linked_in?t=tkdrka)
 
 ## To get to know me better, check out my portfolio website 🤝
 
