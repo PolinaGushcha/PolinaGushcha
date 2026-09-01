@@ -25,9 +25,9 @@ HTML/CSS, SCSS, SASS, Tailwind, JavaScript, Typescript, React, Redux toolkit, Mo
 
 ## Languages
 
-English – C1
-Russian – Native
-Polish – A2
+- English – C1
+- Russian – Native
+- Polish – A2
 
 ## Soft skills
 
