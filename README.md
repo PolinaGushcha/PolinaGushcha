@@ -15,13 +15,13 @@ Telegram: @PolinaGushcha\
 
 ## About me
 
-Software Engineer with 3+ years of experience designing and delivering scalable, high-performance web and mobile applications using React, Next.js, and TypeScript across entertainment, logistics, health-tech, and Web3 domains.
+Software Engineer with 4 years of experience designing and delivering scalable, high-performance web and mobile applications using React, Next.js, and TypeScript across entertainment, logistics, health-tech, and Web3 domains.
 Skilled in architecting UI from scratch, integrating REST APIs, and delivering complex features - authentication flows, form systems, data tables, and analytics dashboards - for ERP, CRM, and management platforms.
 Integrated AI agents into the frontend pipeline for requirements analysis, component generation, test scaffolding, and refactoring, reducing cycle time for routine tasks.
 
 ## Technical skills:
 
-HTML/CSS, SCSS, SASS, Tailwind, JavaScript, Typescript, React, Redux toolkit, MobX, React-Admin, Next.js, Firebase and Supabase, Docker, playwright, Ant Design, MUI, Canvas, Framer Motion / Framer platform, Gsap, Axios, Jest, Cypress, React Native expo & cli, Angular, RxJs, NgRx, Node.js, Express.js, GraphQL, MongoDB, AWS, RAM, Web3, StoryBook, Capacitor, Ionic, AI development with Claude, Cursor, agile software development.
+HTML/CSS, SCSS, SASS, Tailwind, JavaScript, Typescript, React, Redux toolkit, MobX, Zustand, React-Admin, Next.js, Firebase and Supabase, Docker, playwright, Ant Design, MUI, Canvas, Framer Motion / Framer platform, Gsap, Axios, Jest, Cypress, React Native expo & cli, Angular, RxJs, NgRx, Node.js, Express.js, GraphQL, MongoDB, AWS, REST API, OAuth, JWT, Web3, Capacitor, Ionic, AI development with Claude, Cursor, agile software development.
 
 ## Languages
 
@@ -36,7 +36,7 @@ I don't just work on the frontend. I'm involved with the whole project. Thanks t
 ## Education
 
 - Belarus State University,
-  _Economic Informatics_, Belarus Minsk | 2019 - 2023
+  _Business & Management Analytics_, Belarus Minsk | 2019 - 2023
 
 ## Certificate
 
